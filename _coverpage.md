@@ -1,16 +1,18 @@
-![logo](assets/images/tech.png)
+<img alt="Technology" width="700px" src="/assets/images/tech.png" />
 
-> Record, Replay, and memorize Technology
+---
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+> Documentation for different tools that we use in our Software Development😃
+
+- 🚀 Package Managers
+- ⚡️️ Version Control
+- 💎 Web Servers
+- 🔥 Operating Systems
+- 📼 Code Editors
+- ⏱ Module Bundlers
 
 <div class="buttons">
-  <a href="https://github.com/gopibabus/DocTemplate/" target="_blank"><span>GitHub</span></a>
+  <a href="https://github.com/gopibabus/TechNotes/" target="_blank"><span>GitHub</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
 
