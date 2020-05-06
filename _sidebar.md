@@ -1,3 +1,13 @@
+- Web Development Resources
+
+  - [Illustrations](web/illustrations.md)
+  - [Speed Test](web/speed.md)
+  - [Colors](web/colors.md)
+  - [Designs](web/designs.md)
+  - [Fonts & Icons](web/icons.md)
+  - [Images & Videos & Music](web/images.md)
+  - [Public APIs](web/api.md)
+
 - Package Managers
 
   - [Composer](package_managers/composer.md)
