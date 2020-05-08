@@ -7,6 +7,12 @@
   - [Fonts & Icons](web/icons.md)
   - [Images & Videos & Music](web/images.md)
   - [Public APIs](web/api.md)
+  - [💪🏽Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
+
+- Job
+
+  - [Resume & CV](job/resume.md)
+  - [Speed Test](web/speed.md)
 
 - Package Managers
 
