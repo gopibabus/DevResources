@@ -19,3 +19,5 @@
 > [🌐 Pokeapi](https://pokeapi.co/)
 
 > [🌐 omdbapi](http://www.omdbapi.com/)
+
+> [🌐 CheckNorris Jokes API](https://api.chucknorris.io/)
