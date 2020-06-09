@@ -17,6 +17,10 @@
 
   - [Checklist](pre-release/index.md)
 
+- Maths for Developers
+
+  - [Maths for Developers](maths/index.md)
+
 - Project Ideas
 
   - [JavaScript](project-ideas/js.md)
