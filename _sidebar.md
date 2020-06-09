@@ -1,3 +1,7 @@
+- How to Search in Web
+
+  - [Google](search/google.md)
+
 - Web Development Resources
 
   - [Illustrations](web/illustrations.md)
@@ -8,6 +12,16 @@
   - [Images & Videos & Music](web/images.md)
   - [Public APIs](web/api.md)
   - [💪🏽Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
+
+- Pre Release Checklist
+
+  - [Checklist](pre-release/index.md)
+
+- Project Ideas
+
+  - [JavaScript](project-ideas/js.md)
+  - [PHP](project-ideas/php.md)
+  - [CSS](project-ideas/css.md)
 
 - Job
 
