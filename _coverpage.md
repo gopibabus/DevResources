@@ -2,7 +2,7 @@
 
 ---
 
-> Documentation for different tools that we use in our Software Development😃
+> Different tools that we use in our Software Development😃
 
 - 🚀 Package Managers
 - ⚡️️ Version Control

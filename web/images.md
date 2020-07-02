@@ -2,6 +2,8 @@
 
 <img alt="Images" width="700px" src="/assets/images/images.png"/>
 
+## ⚡Images
+
 ### ✳Image Resources
 
 > [🌐 Shotzr](https://www.shotzr.com/image-library/)
@@ -9,6 +11,24 @@
 > [🌐 Generated AI](https://generated.photos/)
 
 > [🌐 Picsum](https://picsum.photos/)
+
+> [🌐 Trianglify](https://trianglify.io/)
+
+> [🌐 Blobs](https://blobs.app/)
+
+> [🌐 ShapeDivider](https://www.shapedivider.app/)
+
+> [🌐 Artvee](https://artvee.com/)
+
+### ✳Image Editing and Storing
+
+> [🌐 PostImages](https://postimages.org/)
+
+> [🌐 Eagle](https://eagle.cool/)
+
+> [🌐 ImageColorizer](https://imagecolorizer.com/)
+
+## ⚡Videos
 
 ### ✳Video Resources
 

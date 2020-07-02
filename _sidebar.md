@@ -1,8 +1,13 @@
+- Tutorial Websites & Channels
+
+  - [Websites](tutorials/websites.md)
+  - [Youtube Channels](tutorials/youtube.md)
+
 - How to Search in Web
 
   - [Google](search/google.md)
 
-- Web Development Resources
+- UI Building Resources
 
   - [Illustrations](web/illustrations.md)
   - [Speed Test](web/speed.md)
@@ -11,7 +16,22 @@
   - [Fonts & Icons](web/icons.md)
   - [Images & Videos & Music](web/images.md)
   - [Public APIs](web/api.md)
-  - [💪🏽Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
+  - [Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
+  - [ScreenShots](snapshots/index.md)
+
+- Regular Expressions
+
+  - [Online Tools](regex/tools.md)
+
+- Libraries & Services
+
+  - [JavaScript](libraries/js.md)
+  - [PHP](libraries/php.md)
+  - [CSS](libraries/css.md)
+
+- Security Vulnerabilities
+
+  - [Securitu & Hacking](security/index.md)
 
 - Pre Release Checklist
 
@@ -21,77 +41,30 @@
 
   - [Maths for Developers](maths/index.md)
 
-- Project Ideas
+- Project Structure & Ideas
 
   - [JavaScript](project-ideas/js.md)
   - [PHP](project-ideas/php.md)
   - [CSS](project-ideas/css.md)
 
+- Project Templates & Resources
+
+  - [Resources](project-res/index.md)
+
 - Job
 
   - [Resume & CV](job/resume.md)
   - [Speed Test](web/speed.md)
+  - [Organization Info](web/org.md)
 
-- Package Managers
+- Technology Surveys
 
-  - [Composer](package_managers/composer.md)
-  - [NPM](package_managers/npm.md)
-  - [Yarn](package_managers/yarn.md)
-  - [Homebrew](package_managers/brew.md)
-  - [apt](package_managers/apt.md)
+  - [Technology Radar](https://www.thoughtworks.com/radar)
+  - [StackoverFlow Survey](https://insights.stackoverflow.com/survey)
+  - [JetBrains Survey](https://www.jetbrains.com/lp/devecosystem-2020/)
 
-- Libraries and Frameworks
-
-  - [React](react/index.html)
-  - [Drupal](drupal/commands.md)
-
-- Version Control
-
-  - [Git](version_control/git.md)
-  - [GitHub](version_control/github.md)
-  - [GitKraken](version_control/gitkraken.md)
-
-- Virtual Env
-
-  - [Vagrant](virtual_env/vagrant.md)
-  - [Docker](virtual_env/docker.md)
-  - [Virtualbox](virtual_env/virtualbox.md)
-
-- Web Servers
-
-  - [Apache](web_servers/apache.md)
-  - [Ngnix](web_servers/ngnix.md)
-  - [Postman](web_servers/postman.md)
-  - [Curl](web_servers/curl.md)
-  - [SSH](web_servers/ssh.md)
-
-- Operating Systems
-
-  - [Linux](os/linux.md)
-  - [Windows](os/windows.md)
-  - [Mac OS](os/mac.md)
-
-- Code Editors
-
-  - [VSCode](code_editors/vscode.md)
-  - [Markdown](code_editors/markdown.md)
-  - [VIM](code_editors/vim.md)
-  - [PHPStorm](code_editors/phpstorm.md)
-  - [Emmet](code_editors/emmet.md)
-
-- Module Bundlers
-
-  - [Webpack](module_bundlers/webpack.md)
-  - [Parcel](module_bundlers/parcel.md)
-  - [Gulp](module_bundlers/gulp.md)
-
-- CSS Preprocessors
-
-  - [Saas](css/sass.md)
-  - [Less](css/less.md)
-
-- How to Learn
+* How to Learn
 
   - [Super Learner](super_learner/super.md)
 
-- [Contributing](contribution/index.md)
+* [Contributing](contribution/index.md)
