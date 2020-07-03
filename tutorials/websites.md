@@ -25,3 +25,5 @@
 > [🌐 Modern CSS Solutions](https://moderncss.dev/)
 
 > [🌐 Building Layouts using CSS](https://every-layout.dev/)
+
+> [🌐 Kevin Powell Courses](https://courses.kevinpowell.co/)
