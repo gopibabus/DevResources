@@ -19,6 +19,8 @@
   - [Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
   - [ScreenShots](snapshots/index.md)
 
+- Optimize Peformance
+  - [Articles](perf/index.md)
 - Regular Expressions
 
   - [Online Tools](regex/tools.md)
