@@ -14,23 +14,21 @@
 
 > [🌐 Illustrations.co](https://illlustrations.co/)
 
-> [🌐 Undraw.co](https://undraw.co/illustrations)
+> [🌐 Undraw.co](https://undraw.co/illustrations) ⭐⭐⭐⭐⭐
 
 > [🌐 drawkit.io](https://www.drawkit.io/)
 
-> [🌐 Old Book Illustrations](https://www.oldbookillustrations.com/)
+> [🌐 Old Book Illustrations](https://www.oldbookillustrations.com/) ⭐⭐⭐
 
-> [🌐 Hand drawn Illustrations](https://www.openpeeps.com/)
-
-> [🌐 Lukaszadam](https://lukaszadam.com/illustrations)
+> [🌐 Lukaszadam](https://lukaszadam.com/illustrations) ⭐⭐⭐
 
 > [🌐 Humaans](https://www.humaaans.com/)
 
 > [🌐 Avataaars](https://avataaars.com/)
 
-> [🌐 Paaatterns](https://products.ls.graphics/paaatterns/)
+> [🌐 Paaatterns](https://products.ls.graphics/paaatterns/) ⭐⭐⭐
 
-> [🌐 The Pattern Library](http://thepatternlibrary.com/)
+> [🌐 The Pattern Library](http://thepatternlibrary.com/) ⭐⭐⭐
 
 ### ✳404 Illustrations
 
