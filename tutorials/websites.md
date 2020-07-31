@@ -27,3 +27,7 @@
 > [🌐 Building Layouts using CSS](https://every-layout.dev/)
 
 > [🌐 Kevin Powell Courses](https://courses.kevinpowell.co/)
+
+> [🌐 Microsoft Node.js Courses](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/)
+
+> [🌐 Serverless Course](https://serverless-visually-explained.com)

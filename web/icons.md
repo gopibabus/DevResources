@@ -2,7 +2,7 @@
 
 <img alt="Speed" width="700px" src="/assets/images/icons.png"/>
 
-### ✳Animated Icons
+### ✳Icons
 
 > [🌐 Font Awesome](https://fontawesome.com/)
 
@@ -19,6 +19,8 @@
 > [🌐 Getmotion](https://www.getmotion.io/)
 
 > [🌐 Animaticons](http://animaticons.co/downloads/)
+
+> [🌐 Tabler SVG Icons](https://tablericons.com/) ⭐⭐⭐⭐⭐
 
 ### ✳Fonts
 

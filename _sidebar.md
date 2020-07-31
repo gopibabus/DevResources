@@ -20,6 +20,8 @@
   - [ScreenShots](snapshots/index.md)
 
 - Optimize Peformance
+
+  - [Speed Test](web/speed.md)
   - [Articles](perf/index.md)
 
 - Regular Expressions
@@ -57,7 +59,7 @@
 - Job
 
   - [Resume & CV](job/resume.md)
-  - [Speed Test](web/speed.md)
+  - [GitHub](job/github.md)
   - [Organization Info](web/org.md)
 
 - Technology Surveys
