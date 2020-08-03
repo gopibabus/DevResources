@@ -33,6 +33,7 @@
   - [JavaScript](libraries/js.md)
   - [PHP](libraries/php.md)
   - [CSS](libraries/css.md)
+  - [Choosing Best Packages](libraries/choose.md)
 
 - Security Vulnerabilities
 
