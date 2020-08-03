@@ -4,7 +4,7 @@
 
 ## ⚡Images
 
-### ✳Image Resources
+### ✳Image & Shapes Resources
 
 > [🌐 Shotzr](https://www.shotzr.com/image-library/)
 
@@ -15,6 +15,8 @@
 > [🌐 Trianglify](https://trianglify.io/)
 
 > [🌐 Blobs](https://blobs.app/)
+
+> [🌐 Squircley](https://squircley.app)
 
 > [🌐 ShapeDivider](https://www.shapedivider.app/)
 

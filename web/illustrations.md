@@ -30,6 +30,8 @@
 
 > [🌐 The Pattern Library](http://thepatternlibrary.com/) ⭐⭐⭐
 
+> [🌐 Free Illistration Libraries](https://freeillustrations.xyz/) ⭐⭐⭐
+
 ### ✳404 Illustrations
 
 > [🌐 error404](https://error404.fun/)

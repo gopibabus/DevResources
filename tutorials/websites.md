@@ -31,3 +31,9 @@
 > [🌐 Microsoft Node.js Courses](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/)
 
 > [🌐 Serverless Course](https://serverless-visually-explained.com)
+
+> [🌐 XDebug Tutorials](https://learnxdebug.com/)
+
+> [🌐 Server Configuration Tutorials](https://serversforhackers.com)
+
+> [🌐 Testing React Apps](https://katifrantz.com/watch/react-testing-masterclass)
