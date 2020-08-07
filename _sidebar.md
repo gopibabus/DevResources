@@ -65,8 +65,8 @@
 
 - Screen Sharing/Recording
 
-  - [Screen Sharing]()
-  - [Screen Recording]()
+  - [Screen Sharing](screen/sharing.md)
+  - [Screen Recording](screen/recording.md)
 
 - Technology Surveys
 
