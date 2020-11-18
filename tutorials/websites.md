@@ -1,4 +1,4 @@
-# 🔥Tutorial Websites
+# 🔥Video Tutorials and Books
 
 ## 📚All Technologies
 
@@ -18,17 +18,21 @@
 
 > [🌐 Spatie](https://spatie.be/videos) ⭐️⭐️⭐️⭐️⭐️
 
-> [🌐 XDebug Tutorials](https://learnxdebug.com/)
+> [🌐 Front line PHP](https://front-line-php.com/)
 
 ## 📚Laravel
 
 > [🌐 Laracasts](https://laracasts.com/)
 
+> [🌐 Laravel Daily](https://laraveldaily.teachable.com/)
+
+## 📚Symfony
+
+> [🌐 Symfonycasts](https://symfonycasts.com/)
+
 ## 📚JavaScript
 
 > [🌐 Wesbos Courses](https://courses.wesbos.com/) ⭐️⭐️⭐️⭐️⭐️
-
-> [🌐 Lydia Hallie](https://www.theavocoder.com/)
 
 > [🌐 Ahmad Awais Courses](https://courses.ahmadawais.com/) ⭐️⭐️⭐️⭐️⭐️
 
@@ -58,12 +62,10 @@
 
 ## 📚CSS and UX
 
-> [🌐 Modern CSS Solutions](https://moderncss.dev/)
-
 > [🌐 Kevin Powell Courses](https://courses.kevinpowell.co/) ⭐️⭐️⭐️⭐️⭐️
 
 ## 📚CI/CD & Servers
 
 > [🌐 Serverless Course](https://serverless-visually-explained.com)
 
-> [🌐 Server Configuration Tutorials](https://serversforhackers.com)
+> [🌐 Server For Hackers](https://serversforhackers.com)

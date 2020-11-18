@@ -1,6 +1,7 @@
 - Tutorial Websites & Channels
 
-  - [Websites](tutorials/websites.md)
+  - [Video Tutorials](tutorials/websites.md)
+  - [Blog Tutorials](tutorials/blogs.md)
   - [Youtube Channels](tutorials/youtube.md)
 
 - How to Search in Web
