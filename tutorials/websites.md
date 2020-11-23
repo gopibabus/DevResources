@@ -12,6 +12,10 @@
 
 > [🌐 PluralSight](https://www.pluralsight.com/)
 
+> [🌐 Educative](https://www.educative.io)
+
+> [🌐 CodeCourse](https://codecourse.com)
+
 ## 📚PHP
 
 > [🌐 Beyond Code](https://beyondco.de/video-courses) ⭐️⭐️⭐️⭐️⭐️
@@ -24,7 +28,19 @@
 
 > [🌐 Laracasts](https://laracasts.com/)
 
+> [🌐 Laravel Core Adventures](https://laravelcoreadventures.com)
+
 > [🌐 Laravel Daily](https://laraveldaily.teachable.com/)
+
+> [🌐 Laraning](https://www.laraning.com)
+
+> [🌐 Usefule Laravel Packages](https://codewithdre.com/useful-laravel-packages)
+
+> [🌐 Indepth Laravel](https://indepthlaravel.com)
+
+> [🌐 Onramp](https://onramp.dev/en)
+
+> [🌐 Learn Laravel Queues](https://learn-laravel-queues.com/)
 
 ## 📚Symfony
 
@@ -51,6 +67,10 @@
 > [🌐 Vue Mastery](https://www.vuemastery.com/)
 
 > [🌐 Vue School](https://vueschool.io/)
+
+## 📚Databases
+
+> [🌐 SQLite Tutorial](https://www.sqlitetutorial.net)
 
 ## 📚Soft Skills
 

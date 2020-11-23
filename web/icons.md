@@ -4,7 +4,9 @@
 
 ### ✳Icons
 
-> [🌐 Font Awesome](https://fontawesome.com/)
+> [🌐 Font Awesome](https://fontawesome.com/)⭐⭐⭐⭐⭐
+
+> [🌐 SVG Box](https://svgbox.net)⭐⭐⭐⭐⭐
 
 > [🌐 Material](https://material.io/resources/icons)
 

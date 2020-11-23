@@ -3,10 +3,20 @@
   - [Video Tutorials](tutorials/websites.md)
   - [Blog Tutorials](tutorials/blogs.md)
   - [Youtube Channels](tutorials/youtube.md)
+  - [Podcasts](tutorials/podcasts.md)
 
-- How to Search in Web
+- Libraries & Services
 
-  - [Google](search/google.md)
+  - [JavaScript](libraries/js.md)
+  - [PHP](libraries/php.md)
+  - [CSS](libraries/css.md)
+  - [Choosing Best Packages](libraries/choose.md)
+
+- Dev Env Setup
+
+  - [Editors & IDEs](ide/editors.md)
+  - [Themes & Fonts](ide/fonts.md)
+  - [Dev Env](ide/dev.md)
 
 - UI Building Resources
 
@@ -18,7 +28,7 @@
   - [Images & Videos & Music](web/images.md)
   - [Public APIs](web/api.md)
   - [Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
-  - [ScreenShots](snapshots/index.md)
+  - [ScreenShots & Banners](snapshots/index.md)
 
 - Optimize Peformance
 
@@ -28,13 +38,6 @@
 - Regular Expressions
 
   - [Online Tools](regex/tools.md)
-
-- Libraries & Services
-
-  - [JavaScript](libraries/js.md)
-  - [PHP](libraries/php.md)
-  - [CSS](libraries/css.md)
-  - [Choosing Best Packages](libraries/choose.md)
 
 - Security Vulnerabilities
 
@@ -48,11 +51,13 @@
 
   - [Maths for Developers](maths/index.md)
 
-- Project Structure & Ideas
+- Boilerplates & Ideas
 
+  - [General](project-ideas/general.md)
   - [JavaScript](project-ideas/js.md)
   - [PHP](project-ideas/php.md)
   - [CSS](project-ideas/css.md)
+  - [Cloud](project-ideas/cloud.md)
 
 - Project Templates & Resources
 
@@ -78,5 +83,9 @@
 * How to Learn
 
   - [Super Learner](super_learner/super.md)
+
+- How to Search in Web
+
+  - [Google](search/google.md)
 
 * [Contributing](contribution/index.md)
