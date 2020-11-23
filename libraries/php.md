@@ -11,6 +11,8 @@
 | [Setup PHP](https://github.com/shivammathur/setup-php) | Github Action for PHP                                |
 | [ibis](https://github.com/themsaid/ibis)               | eBook Generator                                      |
 | [slimdump](https://github.com/webfactory/slimdump)     | Creating configurable dumps of large MySQL-databases |
+| [phpdebugbar](http://phpdebugbar.com)                  | Browser Debug bar for PHP Applications               |
+| [psalm](https://psalm.dev)                             | Static analysis tool                                 |
 
 ## ⚡Websites
 

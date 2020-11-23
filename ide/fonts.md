@@ -9,3 +9,5 @@
 > [🌐 Victor Mono Font](https://rubjo.github.io/victor-mono/)
 
 > [🌐 Fira Code Font](https://github.com/tonsky/FiraCode)
+
+> [🌐 Cascadia Font](https://github.com/microsoft/cascadia-code)

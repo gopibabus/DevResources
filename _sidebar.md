@@ -4,6 +4,7 @@
   - [Blog Tutorials](tutorials/blogs.md)
   - [Youtube Channels](tutorials/youtube.md)
   - [Podcasts](tutorials/podcasts.md)
+  - [Snippet Collection](tutorials/snippets.md)
 
 - Libraries & Services
 
