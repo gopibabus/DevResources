@@ -1,7 +1,7 @@
 - Tutorial Websites & Channels
 
   - [Video Tutorials](tutorials/websites.md)
-  - [Blog Tutorials](tutorials/blogs.md)
+  - [Text Tutorials](tutorials/blogs.md)
   - [Youtube Channels](tutorials/youtube.md)
   - [Podcasts](tutorials/podcasts.md)
   - [Snippet Collection](tutorials/snippets.md)
@@ -69,11 +69,13 @@
   - [Resume & CV](job/resume.md)
   - [GitHub](job/github.md)
   - [Organization Info](web/org.md)
+  - [Email Templates](web/email.md)
 
 - Screen Sharing/Recording
 
   - [Screen Sharing](screen/sharing.md)
   - [Screen Recording](screen/recording.md)
+  - [Video Conferencing](screen/video.md)
 
 - Technology Surveys
 

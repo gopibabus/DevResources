@@ -1,4 +1,4 @@
-# 🔥PHP Libraries & Services
+# 🔥PHP Libraries & Frameworks
 
 ## ⚡Libraries
 
@@ -13,6 +13,16 @@
 | [slimdump](https://github.com/webfactory/slimdump)     | Creating configurable dumps of large MySQL-databases |
 | [phpdebugbar](http://phpdebugbar.com)                  | Browser Debug bar for PHP Applications               |
 | [psalm](https://psalm.dev)                             | Static analysis tool                                 |
+| [PHPStan](https://github.com/phpstan/phpstan)          | PHP Static Analysis Tool                             |
+| [travel](https://github.com/rashidlaasri/travel/)      | Wrapper around Carbon                                |
+| [rector](https://github.com/rectorphp/rector)          | Instant Upgrades and Instant Refactoring             |
+
+## ⚡CLI
+
+| NAME                                     | FUNCTIONALITY                            |
+|------------------------------------------|------------------------------------------|
+| [Laravel Zero](https://laravel-zero.com) | Micro-framework for console applications |
+
 
 ## ⚡Websites
 

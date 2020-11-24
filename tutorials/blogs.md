@@ -32,6 +32,8 @@
 
 > [🌐 Learn 2 Tutorials](https://learn2torials.com/category/laravel)
 
+> [🌐 Laraquiz](https://laraquiz.com)
+
 ## 📚JavaScript
 
 > [🌐 Lydia Hallie](https://www.theavocoder.com/)
@@ -43,3 +45,7 @@
 ## 📚CSS and UX
 
 > [🌐 Modern CSS Solutions](https://moderncss.dev/)
+
+## 📚CSS and UX
+
+> [🌐 Mastering CLI Tools](https://masteringclitools.com)

@@ -24,6 +24,8 @@
 
 > [🌐 Placeholder Images](https://placeholder.com)
 
+> [🌐 Fauxcode Generator](http://knutsynstad.com/fauxcode/)
+
 ### ✳Image Editing and Storing
 
 > [🌐 PostImages](https://postimages.org/)

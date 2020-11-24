@@ -30,3 +30,4 @@
 | [Video.js](https://videojs.com)                                                   | HTML5 player framework.                                                |
 | [Licensed](https://github.com/plibither8/licensed)                                | Command line tool to help you choose and add licenses to your projects |
 | [npkill](https://npkill.js.org)                                                   | Easily find and remove old and heavy node_modules folders              |
+| [Grid.js](https://github.com/grid-js/gridjs)                                      | Advanced table plugin                                                  |
