@@ -31,10 +31,11 @@
   - [Brad Traversey List](https://github.com/bradtraversy/design-resources-for-developers)
   - [ScreenShots & Banners](snapshots/index.md)
 
-- Optimize Peformance
+- Performance & Uptime
 
   - [Speed Test](web/speed.md)
   - [Articles](perf/index.md)
+  - [Uptime Check](perf/uptime.md)
 
 - Regular Expressions
 
