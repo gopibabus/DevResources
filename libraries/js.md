@@ -31,3 +31,8 @@
 | [Licensed](https://github.com/plibither8/licensed)                                | Command line tool to help you choose and add licenses to your projects |
 | [npkill](https://npkill.js.org)                                                   | Easily find and remove old and heavy node_modules folders              |
 | [Grid.js](https://github.com/grid-js/gridjs)                                      | Advanced table plugin                                                  |
+| [Bunyan](https://www.npmjs.com/package/bunyan)                                    | JSON logging library for node.js services                              |
+| [Winston](https://www.npmjs.com/package/winston)                                  | A logger for just about everything.                                    |
+| [Husky](https://github.com/typicode/husky)                                  | Git hooks made easy 🐶 woof!.                                    |
+| [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton)                                  | Skeleton screens that automatically adapt to your app!|
+| [Placeholder Loading](https://github.com/zalog/placeholder-loading)                                  | Simple and flexible, css only, content placeholder loading animation. |

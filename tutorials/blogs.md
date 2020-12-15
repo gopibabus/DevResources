@@ -20,6 +20,8 @@
 
 > [🌐 XDebug Tutorials](https://learnxdebug.com/)
 
+> [🌐 XDebug with Docker](https://charron.dev/posts/speeding-up-php-in-docker-xdebug)
+
 ## 📚Laravel
 
 > [🌐 Laravel Daily](https://laraveldaily.com/blog)
@@ -46,6 +48,10 @@
 
 > [🌐 Modern CSS Solutions](https://moderncss.dev/)
 
-## 📚CSS and UX
+> [🌐 A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+> [🌐 Mastering CSS Flexbox](https://jstutorial.medium.com/the-complete-css-flex-box-tutorial-d17971950bdc)
+
+## 📚CLI
 
 > [🌐 Mastering CLI Tools](https://masteringclitools.com)
