@@ -46,7 +46,7 @@
 
 - Security Vulnerabilities
 
-  - [Securitu & Hacking](security/index.md)
+  - [Security & Hacking](security/index.md)
 
 - Boilerplates & Ideas
 
