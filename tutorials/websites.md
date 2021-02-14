@@ -42,6 +42,8 @@
 
 > [🌐 Learn Laravel Queues](https://learn-laravel-queues.com/)
 
+> [🌐 TDD with Laravel](https://tddwithlaravel.com/)
+
 ## 📚Symfony
 
 > [🌐 Symfonycasts](https://symfonycasts.com/)

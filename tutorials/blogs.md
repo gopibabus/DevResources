@@ -36,6 +36,8 @@
 
 > [🌐 Laraquiz](https://laraquiz.com)
 
+> [🌐 Laravel Secrets](https://laravelsecrets.com/)
+
 ## 📚JavaScript
 
 > [🌐 Lydia Hallie](https://www.theavocoder.com/)
